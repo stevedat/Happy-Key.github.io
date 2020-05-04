@@ -1385,12 +1385,11 @@ section.lazy-placeholder:after {
 }
 .cid-rY0kELspTH {
   background: #149dcc;
-  padding-top: 30px;
-  padding-bottom: 30px;
   background: linear-gradient(0deg, #149dcc, #ffffff);
 }
 .cid-rY0kELspTH .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rY0kELspTH .video-block {
@@ -1621,12 +1620,11 @@ section.lazy-placeholder:after {
 }
 .cid-rY0lcCIM9j {
   background: #149dcc;
-  padding-top: 0px;
-  padding-bottom: 0px;
   background: linear-gradient(0deg, #149dcc, #ffffff);
 }
 .cid-rY0lcCIM9j .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rY0lcCIM9j .video-block {
