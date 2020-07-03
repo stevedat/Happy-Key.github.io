@@ -1324,7 +1324,7 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-rY047pZuWs .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
   text-align: left;
   font-weight: 300;
 }
@@ -3035,6 +3035,9 @@ section.lazy-placeholder:after {
 .cid-rY0HXXIbWG .mbr-iconfont {
   font-size: 80px;
   color: #149dcc;
+}
+.cid-rY0HXXIbWG P {
+  color: #767676;
 }
 .cid-rY12FUmb1C {
   padding-top: 60px;
