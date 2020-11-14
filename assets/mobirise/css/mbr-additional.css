@@ -1460,27 +1460,28 @@ section.lazy-placeholder:after {
 .cid-s3nndhC0R6 H2 {
   color: #232323;
 }
-.cid-s3nnmSkAyB {
-  padding-top: 0px;
-  padding-bottom: 30px;
+.cid-sgixPy8m8K {
+  padding-top: 30px;
+  padding-bottom: 90px;
   background-color: #ffffff;
   overflow: hidden;
+  box-sizing: border-box;
 }
-.cid-s3nnmSkAyB .mbr-slider .carousel-control {
+.cid-sgixPy8m8K .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-s3nnmSkAyB .mbr-slider .carousel-control-prev {
+.cid-sgixPy8m8K .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-s3nnmSkAyB .mbr-slider .carousel-control-next {
+.cid-sgixPy8m8K .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-s3nnmSkAyB .mbr-slider .modal-body .close {
+.cid-sgixPy8m8K .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-s3nnmSkAyB .mbr-gallery-item > div::before {
+.cid-sgixPy8m8K .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -1493,13 +1494,13 @@ section.lazy-placeholder:after {
   transition: 0.2s opacity ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-s3nnmSkAyB .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-sgixPy8m8K .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-s3nnmSkAyB .mbr-gallery-item > div:hover:before {
+.cid-sgixPy8m8K .mbr-gallery-item > div:hover:before {
   opacity: 0.7 !important;
 }
-.cid-s3nnmSkAyB .mbr-gallery-title {
+.cid-sgixPy8m8K .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -1509,133 +1510,7 @@ section.lazy-placeholder:after {
   color: #fff;
   z-index: 2;
 }
-.cid-s3nnmSkAyB .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-sex9OzE02r {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-  overflow: hidden;
-}
-.cid-sex9OzE02r .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-sex9OzE02r .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-sex9OzE02r .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-sex9OzE02r .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-sex9OzE02r .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-sex9OzE02r .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-sex9OzE02r .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-sex9OzE02r .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-sex9OzE02r .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-sg2BpC9Aph {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-  overflow: hidden;
-}
-.cid-sg2BpC9Aph .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-sg2BpC9Aph .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-sg2BpC9Aph .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-sg2BpC9Aph .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-sg2BpC9Aph .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-sg2BpC9Aph .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-sg2BpC9Aph .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-sg2BpC9Aph .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-sg2BpC9Aph .mbr-gallery-title:before {
+.cid-sgixPy8m8K .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
