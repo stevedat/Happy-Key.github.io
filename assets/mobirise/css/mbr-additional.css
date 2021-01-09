@@ -6186,6 +6186,19 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-slzZIprvla {
+  background: #34c0cd;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.cid-slzZIprvla .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-slzZIprvla .video-block {
+    width: 100% !important;
+  }
+}
 .cid-sj7ax5SFmt {
   background: #ffcc00;
   padding-top: 15px;
