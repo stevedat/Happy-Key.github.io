@@ -1302,8 +1302,8 @@ section.lazy-placeholder:after {
   color: #000000;
 }
 .cid-skmkspl6B7 {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/trang-1-607x859.jpg");
 }
 .cid-skmkspl6B7 .mbr-section-subtitle {
@@ -1351,98 +1351,6 @@ section.lazy-placeholder:after {
 }
 .cid-skmkspl6B7 H2 {
   color: #ffffff;
-}
-.cid-siQxhXc4pa {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-siQxhXc4pa .mbr-section-subtitle {
-  color: #2e2e2e;
-  font-weight: 300;
-}
-.cid-siQxhXc4pa .number-wrap {
-  color: #2e2e2e;
-  border-color: rgba(255, 255, 255, 0.15);
-  position: relative;
-  display: inline-block;
-  text-align: center;
-  padding: 5px 10px 13px 10px;
-  margin: 0;
-  min-width: 118px;
-  border-radius: 2px;
-  max-width: 100%;
-}
-.cid-siQxhXc4pa .number {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 55px;
-  text-transform: none;
-  letter-spacing: -2px;
-  word-spacing: 0;
-  line-height: 1.3;
-  color: #ea3441;
-}
-.cid-siQxhXc4pa .period {
-  display: block;
-  padding-top: 2px;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-}
-.cid-siQxhXc4pa .dot {
-  position: absolute;
-  top: -10px;
-  right: -1em;
-  width: 1em;
-  display: block;
-  height: 83%;
-  overflow: hidden;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 55px;
-  line-height: 89.65px;
-  text-transform: none;
-  letter-spacing: 0;
-  word-spacing: 0;
-  color: #ea3441;
-}
-.cid-siQxhXc4pa .countdown-cont {
-  max-width: 700px;
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-siQxhXc4pa .dot {
-    display: none;
-  }
-}
-@media (max-width: 543px) {
-  .cid-siQxhXc4pa .number-wrap {
-    margin-bottom: 15px;
-  }
-}
-@media (max-width: 550px) {
-  .cid-siQxhXc4pa .col-xs-3 {
-    padding-left: 0;
-    padding-right: 0;
-    max-width: 25%;
-    flex: 0 0 25%;
-  }
-  .cid-siQxhXc4pa .number-wrap {
-    min-width: auto;
-  }
-}
-@media (max-width: 440px) {
-  .cid-siQxhXc4pa .number,
-  .cid-siQxhXc4pa .dot {
-    font-size: 40px;
-  }
-}
-@media (max-width: 380px) {
-  .cid-siQxhXc4pa .period {
-    font-size: 0.8rem;
-  }
-}
-.cid-siQxhXc4pa H2 {
-  color: #000000;
 }
 .cid-s3Em0TNjBs {
   padding-top: 0px;
