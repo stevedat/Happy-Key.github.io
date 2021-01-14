@@ -4681,6 +4681,19 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-sm27ZiSrVx {
+  background: #34c0cd;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-sm27ZiSrVx .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-sm27ZiSrVx .video-block {
+    width: 100% !important;
+  }
+}
 .cid-siKTb3cCme {
   background: #ffcc00;
   padding-top: 15px;
