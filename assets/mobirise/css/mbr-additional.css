@@ -685,13 +685,13 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-sex2PYXJWF .navbar {
-  background: #ffcc00;
+  background: #e4d295;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-sex2PYXJWF .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffcc00;
+  background: #e4d295;
 }
 .cid-sex2PYXJWF a {
   font-style: normal;
@@ -782,7 +782,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-sex2PYXJWF .dropdown .dropdown-menu {
-  background: #ffcc00;
+  background: #e4d295;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -931,11 +931,6 @@ section.lazy-placeholder:after {
 .cid-sex2PYXJWF .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-sex2PYXJWF .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
-}
-@media (min-width: 1024px) {
-  .cid-sex2PYXJWF .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
 }
 .cid-sex2PYXJWF .collapsed button.navbar-toggler {
   display: block;
@@ -8093,7 +8088,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-sn2M9oia3a .countdown-cont {
-  background: linear-gradient(45deg, #cc2952, #cc2952);
+  background: linear-gradient(45deg, #7f1933, #7f1933);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
@@ -8140,8 +8135,8 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-sn2M9p2jnC {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #e4d295;
 }
 .cid-sn2M9p2jnC .form-control,
@@ -8249,13 +8244,13 @@ section.lazy-placeholder:after {
   color: #000000;
 }
 .cid-sex2PYXJWF .navbar {
-  background: #ffffff;
+  background: #e4d295;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-sex2PYXJWF .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #e4d295;
 }
 .cid-sex2PYXJWF a {
   font-style: normal;
@@ -8346,7 +8341,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-sex2PYXJWF .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #e4d295;
   visibility: hidden;
   display: block;
   position: absolute;
